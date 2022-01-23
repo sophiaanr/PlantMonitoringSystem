@@ -1,3 +1,7 @@
+/**
+ * Plant monitoring system using Adafruit RGB LCD 16x2 with buttons
+ */
+
 #include <LiquidCrystal.h>
 #include <Adafruit_RGBLCDShield.h>
 
