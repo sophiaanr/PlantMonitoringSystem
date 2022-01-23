@@ -1,5 +1,5 @@
 /**
- * Plant monitoring system using a 20x4 LCD screen and custom characters
+ * Plant monitoring system using a 20x4 i2c LCD screen and custom characters
  */
 
 #include <Wire.h>
