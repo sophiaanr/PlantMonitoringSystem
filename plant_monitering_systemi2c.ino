@@ -1,3 +1,7 @@
+/**
+ * Plant monitoring system using a 20x4 LCD screen and custom characters
+ */
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
